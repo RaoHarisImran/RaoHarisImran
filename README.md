@@ -1,3 +1,4 @@
+![logo](https://github.com/RaoHarisImran/RaoHarisImran/blob/main/Purple%20Modern%20Gaming%20Channel%20%20Banner%20Landscape.jpg)
 <h1 align="center">Hi 👋, I'm Rao Haris Imran</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
