@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **TypeScript and JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **raoharisimran1412@gmail.com**
 
-- 😋Fun Fact **I think I am Funny♂️ ‍♀️.**
+- 😋Fun Fact **I think I am Good Coder♂️ ‍♀️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
