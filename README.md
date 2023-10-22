@@ -1,4 +1,4 @@
-![logo](https://github.com/RaoHarisImran/RaoHarisImran/blob/e9d6a0763e67d6213bd22351096af373b98ade0d/Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
+![Logo](https://github.com/RaoHarisImran/RaoHarisImran/blob/5b9cd8459253062b49a2e1716201e2073c80a749/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Rao Haris Imran</h1>
 <h3 align="center">A passionate Full Stack Web App developer, Generative AI, Web 3.0 and Metaverse Developer from Pakistan.</h3>
 
