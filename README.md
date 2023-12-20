@@ -1,6 +1,25 @@
 ![Logo](https://github.com/RaoHarisImran/RaoHarisImran/blob/5b9cd8459253062b49a2e1716201e2073c80a749/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Rao Haris Imran</h1>
-<h3 align="center">A passionate Full Stack Web App developer, Generative AI, Web 3.0(Smart Contracts) and Blockchain Developer from Pakistan.</h3>
+<h3 align="center">🚀 Welcome to my GitHub space! 🌐
+
+I'm Rao Haris Imran, a passionate Modern Full Stack Web Developer and Web 3.0 enthusiast, on a mission to blend cutting-edge technologies with seamless user experiences. 👨‍💻
+
+💻 Tech Stack:
+Frontend: React.js, Vue.js, Angular
+Backend: Node.js, Express, Django
+Database: MongoDB, MySQL, PostgreSQL
+Blockchain: Smart Contracts, Solidity
+🌐 Web 3.0 Explorer:
+Embarking on the journey of Web 3.0, I'm exploring decentralized applications (dApps), integrating blockchain into the web, and building a more open, secure, and interconnected internet.
+
+🚀 What I Do:
+Develop scalable and responsive web applications.
+Embrace the latest trends in frontend and backend technologies.
+Dive into the world of decentralized technologies and blockchain.
+📈 GitHub Stats:
+
+Let's connect, collaborate, and innovate! 🚀✨
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoharisimran&label=Profile%20views&color=0e75b6&style=flat" alt="raoharisimran" /> </p>
 
