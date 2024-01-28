@@ -5,9 +5,9 @@
 I'm Rao Haris Imran, a passionate Modern Full Stack Web Developer and Web 3.0 enthusiast, on a mission to blend cutting-edge technologies with seamless user experiences. 👨‍💻
 
 💻 Tech Stack:
-Frontend: React.js, Vue.js, Angular
-Backend: Node.js, Express, Django
-Database: MongoDB, MySQL, PostgreSQL
+Frontend: React.js, Next.js
+Backend: Node.js
+Database: MongoDB
 Blockchain: Smart Contracts, Solidity
 🌐 Web 3.0 Explorer:
 Embarking on the journey of Web 3.0, I'm exploring decentralized applications (dApps), integrating blockchain into the web, and building a more open, secure, and interconnected internet.
